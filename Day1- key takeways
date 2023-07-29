@@ -1,0 +1,3 @@
+Built-in cloud terminal, known as the Cloud Shell.
+Require Azure credentials to login to portal
+Manage Azure resources using Portal, Powershell , Azure CLI
