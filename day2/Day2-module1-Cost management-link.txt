@@ -1,0 +1,6 @@
+Plan and manage your Azure costs
+  https://learn.microsoft.com/en-us/training/modules/plan-manage-azure-costs/
+
+Analysis Cost and create budgets
+  https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/
+
