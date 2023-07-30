@@ -1,0 +1,34 @@
+What is Azure Virtual Network?
+Reading:  https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+Configure VNets :
+Activity: https://learn.microsoft.com/en-us/training/modules/configure-network-for-azure-virtual-machines/
+
+Designing IP address Schema 
+Activity: https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/
+
+VNet Best Practices 
+Reading: https://learn.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices
+
+Public and Private IP addressing
+Activity : https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/
+
+Public IPs
+Reading : https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses
+
+Private IPs:
+Reading : https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/private-ip-addresses
+
+Hosting with Azure DNS 
+Activity: https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/
+
+Control Traffic with Routes
+Activity: https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/
+
+Securing Vnets with Network Secuirty Groups 
+Activity: https://learn.microsoft.com/en-us/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+
+NSG overview 
+Activity: https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+
