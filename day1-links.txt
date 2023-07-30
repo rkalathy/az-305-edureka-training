@@ -5,8 +5,16 @@ Install Powershell
   https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3&viewFallbackFrom=powershell-7.1
 
 Install Azure CLI
-  https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+  Labs: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
 Build VM template 
   https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/
-  
+
+Create an Azure Storage account
+  Labs: https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/
+
+Azure Storage Account Overview  
+  https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview
+
+Evaluate data redundancy options for Azure Storage
+  https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/
