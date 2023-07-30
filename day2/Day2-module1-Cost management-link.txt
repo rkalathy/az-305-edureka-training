@@ -1,3 +1,6 @@
+Organizing ubcriptions 
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions
+
 Plan and manage your Azure costs
   https://learn.microsoft.com/en-us/training/modules/plan-manage-azure-costs/
 
