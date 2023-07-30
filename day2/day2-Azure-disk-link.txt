@@ -1,0 +1,8 @@
+Overview of Azure Disks 
+  https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview
+
+Adding Data Disks
+  https://learn.microsoft.com/en-us/training/modules/add-and-size-disks-in-azure-virtual-machines/
+
+Securing Disks
+  https://learn.microsoft.com/en-us/training/modules/add-and-size-disks-in-azure-virtual-machines/
