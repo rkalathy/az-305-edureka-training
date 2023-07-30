@@ -1,5 +1,13 @@
+Virtual machines 
+  https://learn.microsoft.com/en-us/azure/virtual-machines/overview
+
 Getting started with Azure Linux VM 
   https://learn.microsoft.com/en-us/training/paths/azure-linux/
 
 Getting Started with Azure Windows VM 
   https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/
+
+Managing Virtual machines 
+  https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/
+
+Automate VM Configuration Using Cloud init
