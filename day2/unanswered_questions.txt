@@ -1,0 +1,6 @@
+Creation of VM using batch process 
+-  Ans: Please refer day 1  video to create a Virtaul machine using arm template.
+Question: create virtual machine using CLI 
+
+Creation of Disk using Blob file option as Managed Disk 
+- Ans: Giving a reference in the demo , not the actual demo 
