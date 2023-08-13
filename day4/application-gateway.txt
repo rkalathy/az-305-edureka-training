@@ -1,0 +1,2 @@
+Load Balance with Application Gateway 
+  Activity: https://learn.microsoft.com/en-us/training/modules/load-balance-web-traffic-with-application-gateway/
