@@ -1,0 +1,27 @@
+*Azure Availability*
+  Defining High availability 
+    Reading: https://learn.microsoft.com/en-us/azure/sap/workloads/sap-high-availability-architecture-scenarios
+  Availability Options for Azure VMs
+    Reading: https://learn.microsoft.com/en-us/azure/virtual-machines/availability
+  Architecting Reliability 
+    Activity: https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/ 
+  Scability with Scale Sets     
+    Activity: https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets/
+
+Azure scale sets 
+  Describing Virtual Machine Scale Sets
+    Reading: https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview?context=%2Fazure%2Fvirtual-machines%2Fcontext%2Fcontext
+  Overview of Autoscaling
+    Reading:https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview?context=%2Fazure%2Fvirtual-machines%2Fcontext%2Fcontext
+  Building Scable Applications
+    Activity: https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets/
+
+Automating Virtual Machine Deployments 
+  Reading: https://learn.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation
+Creating VM's From VHD templates
+   Activity: https://learn.microsoft.com/en-us/training/modules/deploy-vms-from-vhd-templates/
+Generalize Linux VM
+  Reading: https://learn.microsoft.com/en-us/training/modules/deploy-vms-from-vhd-templates/
+Generalize Windows VM
+  Reading: https://learn.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image
+
