@@ -1,0 +1,4 @@
+Overview of App service Plans 
+  reading : https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans
+Create Web App With App Service Plan 
+  activity: https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/ 
