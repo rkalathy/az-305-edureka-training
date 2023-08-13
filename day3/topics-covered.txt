@@ -25,3 +25,9 @@ Generalize Linux VM
 Generalize Windows VM
   Reading: https://learn.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image
 
+Introducing Azure Load Balancer 
+  Activity: https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resiliency-with-load-balancer/
+  
+Troubleshooting Azure Load Balancer:
+  Activity : https://learn.microsoft.com/en-us/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/  
+
