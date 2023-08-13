@@ -1,0 +1,24 @@
+Overview Of Azure App Service 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/overview
+Create Web App with an App Service Plan
+  Activity : https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/
+
+Deploying Apps with Azure App Service 
+   Activity : https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-app-service/
+Deploy a .NET core web App 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net70&pivots=development-environment-vs
+Scaling a web app 
+  Activity: https://learn.microsoft.com/en-us/training/modules/app-service-scale-up-scale-out/
+
+Configure Common App Service Settings 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal
+Configure Custom Domain with App service 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=root%2Cazurecli
+Configure Deployment Slots 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots?tabs=portal
+Secure Custom Domain on Azure App Service
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings
+Azure App Service Backup
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/manage-backup?tabs=portal
+Scaling Azure App Service 
+  Reading: https://learn.microsoft.com/en-us/azure/app-service/manage-scale-up
